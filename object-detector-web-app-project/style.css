@@ -1,0 +1,23 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading{
+    font-size: 50px;
+    font-family: 'Amatic SC', sans-serif;
+    width: 100%;
+    margin: 0px;
+}
+.link{
+    background: #e4e67c;
+    color: #21525c;
+    border-radius: 19px;
+    width: 250px;
+    margin-top: 15px;
+    font-size: 29px;
+}
+
+.link:hover{
+    font-size: xx-large;
+}
